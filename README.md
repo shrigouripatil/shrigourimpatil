@@ -1,3 +1,3 @@
-hi iam shreyaaa, iam from gat 
+hi iam shrigouri, iam from gat 
 
 learning git hub
